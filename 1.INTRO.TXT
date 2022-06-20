@@ -1,0 +1,61 @@
+Requirments to build web applications:
+-------------------------------------------------
+
+1.html(presentation)
+2.css  (presentation to make more attractive )
+3.client side script
+----------------------
+                                   * javascript,jquery
+
+4.server side script         (server to generate response)
+-------------------------
+                                    
+5.database (to store data);   my sql
+
+6.content managment systems :     -->>build debug and test our application-->>
+
+7.DTP tools( photo shops)  
+                                        publishing images and animations to our webpage
+
+
+
+CLIENT SIDE
+------------------
+                          1.HTML
+                          2.CSS
+                          3.JS
+SERVER SIDE:
+----------------
+                          JAVA,.NET,PYTHON,PHP
+DATABSASE:
+-------------------
+                  SQL,ORACLE
+
+
+CLIENT  -> SERVER SIDE -> DATABASE -> STORE DATA ->SERVER SIDE ->RESPONSE TO CLIENT
+
+
+
+SOFTWARE APPLICATION : designed according to client requirment   EG:IRCTC
+
+SOFTWARE PRODUCT   :designed according to MARKET REQUIRMENTS.  EG:MS OFFICE
+
+
+------------------------------------
+TYPES OF APPLI CATIONS:
+---------------------------------------
+1.desktop apllications
+2.web applications
+3.mobile applications(can run with or without internet)
+4.distributed applications(only that  can run with internet  eg appstore)
+
+
+-------------------------------------------------------------------------------------------------
+WEB TERMINOLOGY:
+------------------
+1.  LAN
+2.MAN
+3.INTERNET.
+4.WEB
+
+

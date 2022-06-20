@@ -1,0 +1,43 @@
+
+
+                JAVASCRIPT LANGUAGE
+                 ---------------------------------
+
+
+
+1.JS is a OBPS (Object based programming language)
+
+2.****	POPs(project oriented programming language)   ex:c language
+
+3. ***        OBPS    (this will not support inheritance  nd dynamic polymorphism                     concept )
+                   eg:  javascript, VB in .net programming
+
+4. *** OOPS
+                      -->REQUIRED MORE MEMORY
+                      -->eg: java ,.net etc..
+
+5.JAVASCRIPT :----- a.It is a interpreted programming language   
+                                     b.browsers provide intepreter
+                                     c.it is client side cript used in web development to handle client                                               side intercation and validation
+                                     d.it is a programming language
+
+
+WORKING:
+ ------------
+                        
+        --->   fORM dETAILS    -->    JAVA  ------------>DATABASE
+
+DRAWBACKS:-
+------------------
+1.Js is not safe as the code is exposed to client from browser
+2. js can be blocked by browser
+
+
+                         javascript BOM AND DOM
+                         ===========================
+
+->  JS BOM(BROWSER OBJECT MODEL) provides collecion of objects that are used      to handle browser eg:location ,history, navigation
+
+->js DOM(DOCUMENT OBJECT MODEL) that are used to handle the documents     elements  eg::forms ,images
+
+

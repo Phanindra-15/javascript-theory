@@ -1,0 +1,35 @@
+
+
+                             INTEGRATING JS INTO WEBPAGE
+                            --------------------------------------------
+
+ 1.  JAVASCRIPT is integrated into weboage by  using any one of the following methods:
+       
+               -------->1.INLINE
+              --------->2.EMBED
+              ---------->EXTERNAL FILE
+
+1INLINE:--
+--------------
+1.  js functins are defined with in html elements so that they are individual and        accessed by individual element.
+
+2. program (inline.html)
+
+2.EMBED:---
+-------------
+
+1.in this method the js functions are definedd with in the page ny using a script tag or       <script>         element so that the functions are accesible to any other element in the page.
+
+2.program (embed.html) in js programs
+3.we should not forget script type when we are using embed method
+
+
+4.JAVASCRIPT STRICT MODE:---- It means a programming languages that obey the rules and guidelines of javascript programming language only 
+
+
+3.EXTERNAL FILES:---
+--------------------------
+
+1.js functions aredefined in a seperate sript file and the file that have extensions that has ".js"
+2. so that these functions can be accessible from any page.
+3. using externl file will increase a number of requests to   a page and as well as page load time also increased
