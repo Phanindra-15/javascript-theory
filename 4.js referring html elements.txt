@@ -1,0 +1,22 @@
+  
+
+
+     JAVASCRIPT REFERRRING HTML ELEMENTS:
+ -----------------------------------------------------------
+
+1.BY USING BOM HIERARCHY:-
+--------------------------------------
+                                  IN  this html elements are reffered by using  BOM  and DOM are referred using an array reference method
+
+
+2.by using name-
+----------------------
+                                   in this method  every html elements  can have referrence nme defined by using   "NAME " attribute
+
+
+3.REFER BY USING ID:-
+------------------------------
+                                                 every html element has unique reference ID and it is a unique id given for elements. js can access html elements by refering to ID
+
+  --> it requires a function and we have to use 
+                                              ---------->>>>    "document.getElementByid()"------->>>>>>
