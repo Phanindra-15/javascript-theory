@@ -1,0 +1,64 @@
+
+
+           JAVASCRIPT  OUTPUT PROPERTIES AND METHODS
+     ---------------------------------------------------------------------------
+
+
+  1.    JS IS  a client side scripting lang and handling the client interactions on client browser and it provides various propertirs and methods that are used to render the output.
+
+Some pf them are:
+
+                1.alert()
+                 2.confir()
+               3.document.write()
+                4. inner html()
+                5.innertxt()
+
+1.  ALERT():-
+----------------
+
+A.)   It is an o/p function in js that pops up a msg box in the browser and display the specific msg.
+
+B.) it will not allow to perform any  othr task until or unless we confirm the message.
+
+
+                 SYNTAX:--------    alert("your message");
+
+
+
+
+
+2.CONFIRM():----
+-----------------------
+
+A.)  It is an o/p function similar to alert but can confirm the user actions with ok nd cancel buttons
+
+B.) It is a boolean that returns true on OK and FALSE on CANCEL.
+
+
+3.DOCUMENT.WRITE:-
+------------------------------
+A.)it is o/p functon that prints o/p in the same page but on new screen.
+B.) o/p is temporary and it is cleaned up when we relosd the page  
+c.)It allows us to use html markup for formatiing  the output
+
+NOTE:--
+------------
+
+1.) ALERT AND CONFIRM  will not alllow any markup to format the message.
+
+
+4.)INNER HTML:-
+-------------------------
+
+A.)It is  a property used with html elementw that present text and it allows varios formats for text by using markup or formatting functions.
+
+
+
+5.) INNER TEXT():---
+-------------------------------
+
+A.) it will prints only plain text and similar to inner html and it doesnot allows any formats with markup or functions.
+
+
+
